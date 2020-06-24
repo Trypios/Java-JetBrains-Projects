@@ -1,9 +1,9 @@
-# JetBrains Academy mini projects in Python
+# JetBrains Academy mini projects in Java
 
 ## Easy
 | Project                   | Small description                                            |
 | ------------------------- | ------------------------------------------------------------ |
 | Chatty bot                | Bot making conversation                                      |
-| Zookeeper                 | Simulation. Simple printing of ascii animals                 |
+| Tic-Tac-Toe               | Text-based game                                              |
 
 ## Medium
