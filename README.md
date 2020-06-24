@@ -3,7 +3,7 @@
 ## Easy
 | Project                   | Small description                                            |
 | ------------------------- | ------------------------------------------------------------ |
-| Chatty bot                | Bot making conversation                                      |
+| Simple Chatty bot         | Bot making conversation                                      |
 | Tic-Tac-Toe               | Text-based game                                              |
 
 ## Medium
