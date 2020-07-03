@@ -5,5 +5,6 @@
 | ------------------------- | ------------------------------------------------------------ |
 | Simple Chatty bot         | Bot making conversation                                      |
 | Tic-Tac-Toe               | Text-based game                                              |
+| Coffee Machine            | Coffee maker simulation using OOP                            |
 
 ## Medium
