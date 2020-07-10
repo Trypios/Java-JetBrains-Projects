@@ -8,3 +8,6 @@
 | Coffee Machine            | Coffee maker simulation using OOP                            |
 
 ## Medium
+| Project                   | Small description                                            |
+| ------------------------- | ------------------------------------------------------------ |
+| Tic-Tac-Toe AI            | Text-based game with AI implementation                       |
