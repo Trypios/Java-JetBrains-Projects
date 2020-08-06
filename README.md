@@ -11,3 +11,4 @@
 | Project                   | Small description                                            |
 | ------------------------- | ------------------------------------------------------------ |
 | Tic-Tac-Toe AI            | Text-based game with AI implementation                       |
+| Numeral System Converter  | Converts numbers from one base system to another             |
