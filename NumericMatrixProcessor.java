@@ -26,6 +26,12 @@ public class NumericMatrixProcessor {
                     result = matrixA.add(matrixB);
                     break;
                 case 2:
+                    // subtract matrices
+                    matrixA = new Matrix(gridFromInput("first "));
+                    matrixB = new Matrix(gridFromInput("second "));
+                    result = matrixA.subtract(matrixB);
+                    break;
+                case 3:
                     // multiply matrix by scalar
                     matrixA = new Matrix(gridFromInput());
                     System.out.print("Input scalar: ");
@@ -33,25 +39,25 @@ public class NumericMatrixProcessor {
                     System.out.println();
                     result = matrixA.multiplyByScalar(scalar);
                     break;
-                case 3:
+                case 4:
                     // multiply matrices
                     matrixA = new Matrix(gridFromInput("first "));
                     matrixB = new Matrix(gridFromInput("second "));
                     result = matrixA.multiply(matrixB);
                     break;
-                case 4:
+                case 5:
                     // matrix transposition
                     int mode = transpMode();
                     matrixA = new Matrix(gridFromInput());
                     result = matrixA.transpose(mode);
                     break;
-                case 5:
+                case 6:
                     // calculate matrix determinant
                     matrixA = new Matrix(gridFromInput());
                     System.out.println("The result is :");
                     System.out.println(matrixA.getDeterminant());
                     break;
-                case 6:
+                case 7:
                     // matrix inversion
                     // matrixA = new Matrix(gridFromInput());
                     result = matrixA.invert();
