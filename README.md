@@ -14,3 +14,4 @@
 | Numeral System Converter  | Converts numbers from one base system to another             |
 | Encryption Decryption     | Encrypts/decrypts given data with simple shifting algorithm  |
 | Numeric Matrix Processor  | Matrix addition, subtraction, multiplication, inversion, etc |
+| Readability Score         | Calculates ARI, Flesch-Kincaid, SMOG and Coleman-Liau indeces|
