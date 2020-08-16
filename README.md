@@ -15,3 +15,4 @@
 | Encryption Decryption     | Encrypts/decrypts given data with simple shifting algorithm  |
 | Numeric Matrix Processor  | Matrix addition, subtraction, multiplication, inversion, etc |
 | Readability Score         | Calculates ARI, Flesch-Kincaid, SMOG and Coleman-Liau indeces|
+| Game of Life              | Simple GUI with Java Swing                                   |
