@@ -17,3 +17,8 @@
 | Readability Score         | Calculates ARI, Flesch-Kincaid, SMOG and Coleman-Liau indeces|
 | Game of Life              | Simple GUI with Java Swing                                   |
 | Minesweeper               | Text-based game                                              |
+
+## Hard
+| Project                   | Small description                                            |
+| ------------------------- | ------------------------------------------------------------ |
+| Flashcards                | Text-based flashcards                                        |
