@@ -22,3 +22,4 @@
 | Project                   | Small description                                            |
 | ------------------------- | ------------------------------------------------------------ |
 | Flashcards                | Text-based flashcards                                        |
+| Linear Equations          | Solves matrices of complex numbers                           |
