@@ -23,3 +23,4 @@
 | ------------------------- | ------------------------------------------------------------ |
 | Flashcards                | Text-based flashcards                                        |
 | Linear Equations Solver   | Solves matrices of complex numbers                           |
+| Simple Banking System     | Creates credit cards based on Luhn algo, has login features and saves data in SQLite3 |
