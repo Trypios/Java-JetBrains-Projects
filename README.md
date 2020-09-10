@@ -25,3 +25,4 @@
 | Linear Equations Solver   | Solves matrices of complex numbers                           |
 | Simple Banking System     | Creates credit cards based on Luhn algo, has login features and saves data in SQLite3 |
 | Sorting Tool              | Reads lines from file or stdin and sorts them according to given arguments            |
+| Phone Book                | Uses sorting and searching algorithms for finding matching names in a phone book      |
