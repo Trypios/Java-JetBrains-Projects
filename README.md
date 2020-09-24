@@ -30,7 +30,7 @@
 | Simple Search Engine      | 3 types of searching in ssv files for lines written in another file |
 | Budget Manager            | Import/Export/Analyze/Sort expenses                          |
 | Maze Runner               | Creates random generated mazes and solves them               |
-| Digit Recognition         | First steps in machine learning. Program recognizes digits from images |
+| Digit Recognition (inc)   | First steps in machine learning. Program recognizes digits from images |
 
 
 ## Challenging
