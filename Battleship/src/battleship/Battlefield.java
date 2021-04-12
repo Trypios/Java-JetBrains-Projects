@@ -115,8 +115,9 @@ public class Battlefield {
      * @param ship The ship to be positioned on the grid
      */
     private void positionShip(Ship ship) {
-        System.out.printf("%nEnter the coordinates of the %s (%d cells):%n%n", ship.getName(),
-                                                                                ship.getSize());
+        System.out.printf("%nEnter the coordinates of the %s (%d cells):%n", ship.getName(),
+                                                                             ship.getSize());
+        System.out.println("(e.g. E2 E6 or B7 E7)\n");
         String[] coords = inputHandler.inputShipCoordinates(ship);
         updatePositions(ship, coords);
     }
